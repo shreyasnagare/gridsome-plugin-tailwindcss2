@@ -1,6 +1,6 @@
 const path = require("path");
 const fs = require("fs");
-const tailwindCompiler = require("tailwindcss/lib/cli/compile").default;
+const tailwindCompiler = require("tailwindcss/src/cli/compile").default;
 const ExtraWatchWebpackPlugin = require("extra-watch-webpack-plugin");
 const crypto = require("crypto");
 

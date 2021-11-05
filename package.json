@@ -36,6 +36,6 @@
   "dependencies": {
     "autoprefixer": "^10.2.5",
     "extra-watch-webpack-plugin": "^1.0.3",
-    "tailwindcss": "^2.1.2"
+    "tailwindcss": "https://github.com/tailwindlabs/tailwindcss.git#b9dd8b0a6de7e0850866cc89c389559f397e9d57"
   }
 }
